@@ -3,7 +3,6 @@ author = "Muhammad Tomi Ahmadani "
 bg_image = ""
 date = 2021-10-09T17:00:00Z
 description = ""
-draft = true
 github_link = ""
 tags = []
 title = "Tugas Pkk"
@@ -82,4 +81,22 @@ JAWABAN!
 
 5\.) Pengiriman
 
-**(**
+**(C) Uraian**
+
+1\.) Inilah beberapa kekurangan dari produksi secara massal yang ada :
+
+\-Dibutuhkan Modal Yang besar
+
+\-Pekerja Mengalami Penurunan Motivasi.
+
+\-Kurang Fleksibel.
+
+2\.) Faktor internal produksi ada tiga yaitu modal, tenaga kerja dan skill atau manajemen.
+
+3\.)Langkah-langkah dalam scheduling yaitu terdiri dari :
+
+\-Mengatur proses produksi.
+
+\-Mengendalikan proses produksi.
+
+\-Mengoptimalkan kerja dan beban kerja.
