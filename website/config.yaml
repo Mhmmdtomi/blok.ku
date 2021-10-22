@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Muhammad Tomi Ahmadani"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Student"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -42,8 +42,8 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Tomi"
+  descripe_l2_person: "This is my biodata [here](#projects)"
   skills:
     - name: Playing Game
       percentage: 95
@@ -51,7 +51,7 @@ params:
       percentage: 80
     - name: Playing Badminton
       percentage: 80
-    - name: Rebahan
+    - name: 
       percentage: 100
 
   # Experience
@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Sd/Mi"
+      branch: "Tumpeng"
+      university: "Mi Salafiyah Tumpeng"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "Smp"
+      branch: "Tumpeng"
+      university: "Smp Negeri 4 Candipuro"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "Sma/Smk"
+      branch: "Pasirian"
+      university: "Smk Negeri Pasirian"
+      startedyear: "2019"
+      graduation: "_"
 
   # Projects
   disable_projects: false
@@ -129,7 +129,8 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "tomi.rrq165@gmail.com"
+  numberphone: 085813078679
 
   # Footer
   socialiconfooter: true
