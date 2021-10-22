@@ -30,7 +30,7 @@ params:
 
   # home
   disable_home: false
-  profil_image: "picsart_09-13-05-44-14.jpg"
+  profil_image: "/images/profil.png"
   name: "Muhammad Tomi Ahmadani"
   namecolor: ffc107
   profession: "Student"
