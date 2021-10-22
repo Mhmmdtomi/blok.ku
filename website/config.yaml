@@ -30,7 +30,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/https://github.com/Mhmmdtomi/blok.ku/blob/master/website/static/uploads/picsart_09-13-05-44-14.jpg"
   name: "Muhammad Tomi Ahmadani"
   namecolor: ffc107
   profession: "Student"
